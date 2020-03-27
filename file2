@@ -1,2 +1,6 @@
 This is file2
 function1
+<<<<<<< HEAD
+=======
+function2
+>>>>>>> dev2
